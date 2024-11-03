@@ -21,27 +21,27 @@
     "env": {
         "API_ID":{
             "description": "Get your telegram API ID from https://my.telegram.org",
-            "value":""
+            "value":"20346550"
         },
         "API_HASH":{
             "description":"Get your telegram API HASH from https://my.telegram.org",
-            "value":""
+            "value":"bc79c3bea7a626887bdc0871eecf0327"
         },
         "BOT_TOKEN":{
             "description":"Get from Bot father",
-            "value":""
+            "value":"7667053478:AAGUm8yEaroZVT-utmZVeachNUv0uK1IMwM"
         },
         "CLIENT_BOT":{
             "description":"Client bot (with @)",
-            "value":""
+            "value":"@akkiojhaprobot"
         },
         "DUMP_CHANNEL":{
             "description":"Dump Channel",
-            "value":""
+            "value":"-1002217791868"
         },
         "INTERACTION_CHANNEL":{
             "description":"Interaction Channel",
-            "value":""
+            "value":"-1002217791868"
         },
         "THUMB":{
             "description":"Thumb Url",
